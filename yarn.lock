@@ -1183,10 +1183,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource-variable/montserrat/-/montserrat-5.0.18.tgz#12843d9b99524d8787e1b40b2e75248de527569e"
   integrity sha512-X7ZGaabqbPTOdouKkwF8KlAuHI9ypbKVYJN93T8GGjiMhs0+XqcXcYMNC282xuPLPCkl4fYSIug1wKKpXn/e9Q==
 
-"@fontsource/merriweather@^5.0.12":
-  version "5.0.12"
-  resolved "https://registry.yarnpkg.com/@fontsource/merriweather/-/merriweather-5.0.12.tgz#8221eb544d389c0d468a9ec80a2430eedef53565"
-  integrity sha512-l7brVGcFUiGhK7bucRbwWYZDInfyXuVYEthHNw26RkkfMR9TFTiOAIABnN6PFr6Vjaz+c0o7ibLmdEMeSMDfRA==
+"@fontsource/merriweather@^5.2.8":
+  version "5.2.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/merriweather/-/merriweather-5.2.8.tgz#c7733b33743fd7f3df652554fc96046903549d12"
+  integrity sha512-eimTMn3NO25M0ULicSOrpC0rgqBjzCb8L3wzoN/Oe811E6fvodhBGMngkvYJqqnR6aP/V9H01t3B3+d/1SXfwQ==
 
 "@gatsbyjs/parcel-namer-relative-to-cwd@^2.13.1":
   version "2.13.1"
